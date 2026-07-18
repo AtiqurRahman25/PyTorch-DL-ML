@@ -2,4 +2,4 @@
 <img width="686" height="386" alt="hq720" src="https://github.com/user-attachments/assets/fb33cf52-5722-4621-b3b5-30b982a16cbb" />
 
 <h2>1️⃣Linear Regression</h2>
-<h5>Linear Regression is one of the simplest and most important machine learning algorithms. It is used to predict a <b>continuous number</b> based on input data.</h5>
+<p>Linear Regression is one of the simplest and most important machine learning algorithms. It is used to predict a <b>continuous number</b> based on input data.</p>
