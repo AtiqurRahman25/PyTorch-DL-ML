@@ -20,4 +20,18 @@ Where:
 - $x$ = Independent variable
 - $m$ = Slope of the best-fit line
 - $b$ = Y-intercept
+<br>
+<h2>Minimizing the Error Using the Least Squares Method</h2>
 
+To determine the best-fit line, linear regression uses the <b>Least Squares Method</b>, which minimizes the difference between the actual and predicted values. These differences are called <b>residuals</b>.
+
+The formula for a residual is:
+
+$$
+\text{Residual} = y_i - \hat{y}_i
+$$
+
+Where:
+
+- $y_i$ = Actual value of the dependent variable
+- $\hat{y}_i$ = Predicted value from the regression model
