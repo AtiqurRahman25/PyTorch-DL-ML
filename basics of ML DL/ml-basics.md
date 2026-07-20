@@ -3,7 +3,7 @@
 
 <h2>1️⃣Linear Regression</h2>
 <p>Linear Regression is one of the simplest and most important machine learning algorithms. It is used to predict a <b>continuous number</b> based on input data.</p>
-<h2>Discrete Data/Number/Value [Countable] & Continuous Data/Number/Value [Measurable]</h2>
+<h4>Discrete Data/Number/Value [Countable] & Continuous Data/Number/Value [Measurable]</h4>
 <img width="724" height="464" alt="examples-of-discrete-and-continuous-data" src="https://github.com/user-attachments/assets/18c7190b-f81f-48a9-bd5e-0a925950f9a6" />
 <br>
 <h2>Equation of the Best-Fit Line</h2>
