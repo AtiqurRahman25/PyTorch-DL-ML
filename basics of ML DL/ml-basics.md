@@ -9,9 +9,11 @@
 <h2>Equation of the Best-Fit Line</h2>
 
 For simple linear regression (with one independent variable), the best-fit line is represented by:
+
 $$
 y = mx + b
 $$
+
 Where:
 
 - $y$ = Predicted (dependent) variable
