@@ -15,3 +15,4 @@ It is made up of two main components:
   - **Directed (→):** One-way connection.
   - **Undirected (—):** Two-way connection.
   - **Weighted:** Contains a value (cost, distance, time, etc.).
+<img width="1920" height="1080" alt="Graphs-in-DSA" src="https://github.com/user-attachments/assets/b1828146-9ada-4d73-9693-39a7f54db5e7" />
