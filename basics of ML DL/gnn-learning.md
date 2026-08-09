@@ -67,3 +67,7 @@ They work by:
 - Producing representations that capture both local and global graph structure.
 
 > **In short:** Traditional neural networks struggle with irregular graph structures, while **Graph Neural Networks (GNNs)** are built to understand and learn from them.
+
+## Types of Graphs
+<img width="482" height="223" alt="graphs" src="https://github.com/user-attachments/assets/21390f4f-b4e2-41ca-9fc1-b8936b316a2a" />
+
