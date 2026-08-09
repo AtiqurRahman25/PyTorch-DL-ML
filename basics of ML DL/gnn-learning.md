@@ -71,5 +71,8 @@ They work by:
 ## Types of Graphs
 <img width="1920" height="1080" alt="graphs" src="https://github.com/user-attachments/assets/21390f4f-b4e2-41ca-9fc1-b8936b316a2a" />
 <img width="1920" height="1080" alt="images" src="https://github.com/user-attachments/assets/c98b8afa-53e5-4973-9598-e9475d6b376c" />
+## Graph Algorithm
+<img width="1920" height="1080" alt="images" src="https://github.com/user-attachments/assets/2099dfcb-982f-4588-98fe-8b11d0fc98be" />
+
 
 
