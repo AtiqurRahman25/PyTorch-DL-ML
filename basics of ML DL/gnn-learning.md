@@ -75,5 +75,46 @@ They work by:
 ## Graph Algorithm
 <img width="1920" height="1080" alt="images" src="https://github.com/user-attachments/assets/2099dfcb-982f-4588-98fe-8b11d0fc98be" />
 
+# Word2vec: A Guide to Distributed Word Representations
+
+**Word2vec** is a pioneering technique in Natural Language Processing (NLP) used to generate **word embeddings**—dense vector representations of words in a continuous vector space. 
+
+Developed by a team of researchers at Google led by Tomas Mikolov in 2013, Word2vec revolutionized how computers understand human language by capturing the **semantic and syntactic meanings** of words based on their context in text.
+
+---
+
+## 🔑 Key Concepts
+
+* **Vector Representation:** Words are converted into lists of numbers (vectors), typically ranging from 100 to 300 dimensions. 
+* **Semantic Proximity:** Words with similar meanings or contexts are mapped close to each other in the vector space (e.g., `"cat"` and `"dog"` have numerically similar vectors).
+* **Vector Arithmetic:** One of the most famous features of Word2vec is its ability to capture linear relationships and analogies through vector math:
+  > $\text{Vector}(\text{"King"}) - \text{Vector}(\text{"Man"}) + \text{Vector}(\text{"Woman"}) \approx \text{Vector}(\text{"Queen"})$
+
+---
+
+## ⚙️ How Word2vec Works (Architectures)
+
+Word2vec uses shallow, two-layer neural networks to learn word associations from a large corpus of text. It comes in two primary architectures:
+
+1. **Continuous Bag-of-Words (CBOW)**
+   * **Goal:** Predict a target word based on its surrounding context words (the context window).
+   * **Use case:** Works faster and is slightly better at handling more frequent words.
+2. **Skip-gram**
+   * **Goal:** Predict the surrounding context words given a target word.
+   * **Use case:** Works well with smaller amounts of data and does a better job representing less frequent or rare words.
+
+---
+
+## 🚀 Why Word2vec Was a Breakthrough
+
+* **Contextual Awareness:** Older methods like **One-Hot Encoding** treated words as independent, isolated categories where semantic relationships couldn't be computed. Word2vec solved this by encoding meaning into continuous dimensions.
+* **Efficiency:** It significantly reduced computational complexity compared to earlier neural network language models, allowing it to be trained on massive datasets (billions of words).
+
+---
+
+## ⚠️ Limitations
+
+* **Static Embeddings:** Word2vec assigns a single, fixed vector to a word regardless of its context. For example, the word `"bank"` (river bank vs. financial bank) will have the exact same vector, ignoring polysemy. *(Note: This was later solved by contextual models like BERT and GPT).*
+* **Out-of-Vocabulary (OOV):** It struggles to generate vectors for words it has never seen during training.
 
 
