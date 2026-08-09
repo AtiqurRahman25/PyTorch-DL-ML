@@ -70,6 +70,6 @@ They work by:
 
 ## Types of Graphs
 <img width="1920" height="1080" alt="graphs" src="https://github.com/user-attachments/assets/21390f4f-b4e2-41ca-9fc1-b8936b316a2a" />
-<img width="565" height="353" alt="images" src="https://github.com/user-attachments/assets/c98b8afa-53e5-4973-9598-e9475d6b376c" />
+<img width="1920" height="1080" alt="images" src="https://github.com/user-attachments/assets/c98b8afa-53e5-4973-9598-e9475d6b376c" />
 
 
